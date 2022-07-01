@@ -40,11 +40,12 @@ Procedure:
 
 ## output : 
 
-![OUTPUT](.//u1.png)
+![u1](https://user-images.githubusercontent.com/94506182/176834486-79da9e18-64fa-4ea3-984d-55c9f63f09c5.PNG)
 
-![OUTPUT](.//u2.png)
+![u2](https://user-images.githubusercontent.com/94506182/176834547-a6bcbfe4-9f80-4816-8bef-5ef4aadc548b.PNG)
 
-![OUTPUT](.//u3.png)
+![u3](https://user-images.githubusercontent.com/94506182/176834606-bb9bca9c-e1b9-4c70-8047-82caf13d3345.PNG)
+
 
 ![OUTPUT](.//S1.png)
 ## Results: 
