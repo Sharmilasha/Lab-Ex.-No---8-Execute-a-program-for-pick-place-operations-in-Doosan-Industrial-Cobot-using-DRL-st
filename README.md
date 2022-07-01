@@ -40,15 +40,16 @@ Procedure:
 
 
 ## Program 
-// Roll no:
-
-//Name:
-MoveJ ................
+![OUTPUT](.//P1.png)
+![OUTPUT](.//P2.png)
+![OUTPUT](.//P3.png)
 
 ## output : 
 
-
+![OUTPUT](.//S1.png)
 ## Results: 
+
+The program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
 
 
