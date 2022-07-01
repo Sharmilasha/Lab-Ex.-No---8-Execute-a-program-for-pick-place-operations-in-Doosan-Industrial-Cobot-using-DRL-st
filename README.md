@@ -38,15 +38,13 @@ Procedure:
 3)Move to poin1 using move J
 ............
 
+## output : 
 
-## Program 
 ![OUTPUT](.//u1.png)
 
 ![OUTPUT](.//u2.png)
 
 ![OUTPUT](.//u3.png)
-
-## output : 
 
 ![OUTPUT](.//S1.png)
 ## Results: 
