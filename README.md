@@ -40,9 +40,11 @@ Procedure:
 
 
 ## Program 
-![OUTPUT](.//P1.png)
-![OUTPUT](.//P2.png)
-![OUTPUT](.//P3.png)
+![OUTPUT](.//u1.png)
+
+![OUTPUT](.//u2.png)
+
+![OUTPUT](.//u3.png)
 
 ## output : 
 
